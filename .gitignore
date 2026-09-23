@@ -1,0 +1,117 @@
+# =========================================
+# Unity generated folders
+# =========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# =========================================
+# Unity cache / generated files
+# =========================================
+
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb
+*.VC.db
+
+# =========================================
+# IDE / editor files
+# =========================================
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================================
+# OS files
+# =========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================================
+# Visual Studio / Rider
+# =========================================
+
+*.sln.iml
+*.DotSettings.user
+
+# =========================================
+# Unity crash / diagnostics
+# =========================================
+
+crashlytics-build.properties
+*.stacktrace
+
+# =========================================
+# Build outputs
+# =========================================
+
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.ipa
+
+# =========================================
+# Gradle / Android generated
+# =========================================
+
+.gradle/
+gradle/
+local.properties
+
+# =========================================
+# Logs / reports from this project
+# =========================================
+
+*.log
+
+ExpansionReport.txt
+HandlingTest.log
+ReconstructionReport.txt
+RelayPlaytestReport.txt
+TrackRebuild.log
+WindowsBuild.log
+
+# =========================================
+# Optional large exported archives
+# =========================================
+
+*.zip
+*.7z
+*.rar
+
+# =========================================
+# Keep Unity project source
+# =========================================
+
+!Assets/
+!Packages/
+!ProjectSettings/
+!README.md

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/awakeScene.unity
+    guid: 69160dfbc3e10454fac39b45a5c98850
+  - enabled: 1
+    path: Assets/Scenes/EasyRoadsMap.unity
+    guid: ade001e76f45e684e891e34a6130a1c3
+  - enabled: 1
+    path: Assets/Scenes/CitySprint.unity
+    guid: 71ccc5dbdf2117d43936f441911af2e4
+  - enabled: 1
+    path: Assets/Scenes/MountainPass.unity
+    guid: b4c4b163f3ab55048b18ccd8e41cb968
+  - enabled: 1
+    path: Assets/Scenes/DesertRun.unity
+    guid: c4df37bd9efd76846863c1bc880e9bbf
+  m_configObjects: {}
